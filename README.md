@@ -17,7 +17,7 @@
 
 ## :rocket: Sobre o desafio
 
-Nesse desafio, foi criado uma aplicação para treinar o que você foi lecionado até agora no bootcamp sobre NodeJs.
+Nesse desafio, foi criado uma aplicação para treinar o que foi lecionado até agora no bootcamp sobre NodeJs.
 
 Essa será uma aplicação para "armazenar" repositórios do um portfólio, que irá permitir a criação, listagem, atualização e remoção dos repositórios, e além disso permitir que os repositórios possam receber "likes".
 
