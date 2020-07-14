@@ -64,7 +64,7 @@ Para esse desafio temos os seguintes testes:
 
 ## :calendar: Entrega
 
-Esse desafio foi concluído seguindo todas as orientações e teste, e entregue e postado no github
+Esse desafio foi concluído seguindo todas as orientações e testes, e postado no github
 
 
 <hr />
